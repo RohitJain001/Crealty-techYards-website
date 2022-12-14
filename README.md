@@ -1,6 +1,6 @@
 # techYards-website
 TechYards is the project working towards the tokenization of real eastate. <br>
-<b> Tech Stack Used: </b> HTML, CSS, SCSS, Javascript, PHP
+<b> Tech Stack Used for website: </b> HTML, CSS, SCSS, Javascript, PHP
 
 ## Problems identified in the market:
 #### Problem 1
